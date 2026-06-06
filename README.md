@@ -28,6 +28,12 @@
 ![](https://github-readme-activity-graph.vercel.app/graph?username=souma9830&theme=react-dark&hide_border=true)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### My ELUSOC 2026 Admin Badges!
+
+<a href="https://www.edulinkup.dev/elusoc/profile/souma9830">
+  <img src="https://www.edulinkup.dev/elusoc/images/ticket/overseer.png" width="60" alt="Overseer" />
+</a>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=souma9830&icon=0&color=0)](https://visitcount.itsvg.in)
 
