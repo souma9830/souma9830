@@ -32,6 +32,7 @@
 
 <a href="https://www.edulinkup.dev/elusoc/profile/souma9830">
   <img src="https://www.edulinkup.dev/elusoc/images/ticket/overseer.png" width="60" alt="Overseer" />
+  <img src="https://www.edulinkup.dev/elusoc/images/ticket/warden.png" width="60" alt="Warden" />
 </a>
 
 ---
